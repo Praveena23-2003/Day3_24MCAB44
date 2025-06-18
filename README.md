@@ -44,6 +44,18 @@ Here are MongoDB Compass screenshots showing inserted collections and documents:
 - 🧪 MongoDB Compass (GUI Viewer)
 
 ---
-
 ## 📂 Repo Structure
+
+Day3_24MCAB44/
+├── README.md
+├── pom.xml
+├── src/
+│ └── main/
+│ ├── java/
+│ │ ├── org/example/Main.java
+│ │ └── model/
+│ │ ├── Student.java
+│ │ ├── Course.java
+│ │ ├── Enrollment.java
+│ │ └── EnrollmentRef.java
 
