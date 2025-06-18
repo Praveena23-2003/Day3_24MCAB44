@@ -33,6 +33,9 @@ Here are MongoDB Compass screenshots showing inserted collections and documents:
 ### ✅ Students Collection
 ![Day3(Students)Mongodb](https://github.com/user-attachments/assets/c23ba718-6e92-4bbd-9885-ebfc32503622)
 
+![image](https://github.com/user-attachments/assets/086a37b3-d983-4fba-a7b5-83711e05d99f)
+
+
 ---
 
 ## 🧰 Tools Used
